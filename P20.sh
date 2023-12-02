@@ -1,0 +1,6 @@
+echo "Script name: $0"
+echo "First Argumment: $1"
+echo "Second Argument: $2"
+echo "All Argument:  $@"
+echo "All Argument in string: $*"
+echo "Numbers of Arguments : $#"  

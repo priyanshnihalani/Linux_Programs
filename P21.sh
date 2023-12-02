@@ -1,0 +1,7 @@
+echo "Current User: $USER"
+echo "Home Directory: $HOME"
+echo "Path: $PATH"
+echo "PWD: $PWD"
+echo "Shell: $SHELL"
+echo "HostName: $HOSTNAME"
+echo "MAIL: $MAIL"
